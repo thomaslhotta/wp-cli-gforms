@@ -1,0 +1,13 @@
+{
+    "name": "thomaslhotta/wp-cli-gforms",
+    "description": "Adds WP-CLI commands for gravity forms",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Thomas Lhotta",
+            "email": "th.lhotta@gmail.com"
+        }
+    ],
+    "require": {}
+}
